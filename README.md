@@ -15,10 +15,11 @@ For more details about the competition and the dataset, visit the Kaggle Competi
 This project is developed by Sathya Narayanan.
 
 **Project Structure**
-Data Import and Preprocessing: Initial steps involve importing the Kaggle dataset and preparing the seismic signal data for analysis.
-Exploratory Data Analysis (EDA): Conducting thorough exploratory analysis to understand the underlying patterns and characteristics of the seismic data.
-Feature Engineering: Extracting and selecting meaningful features that are predictive of the time to failure.
-Modeling and Evaluation: Building and evaluating machine learning models to predict the time until the next laboratory earthquake with high accuracy.
+
+**Data Import and Preprocessing:** Initial steps involve importing the Kaggle dataset and preparing the seismic signal data for analysis.
+**Exploratory Data Analysis (EDA):** Conducting thorough exploratory analysis to understand the underlying patterns and characteristics of the seismic data.
+**Feature Engineering:** Extracting and selecting meaningful features that are predictive of the time to failure.
+**Modeling and Evaluation:** Building and evaluating machine learning models to predict the time until the next laboratory earthquake with high accuracy.
 **Conclusion and Insights:** Summarizing the findings, model performance, and potential implications for real-world earthquake prediction efforts.
 
 **Usage**
