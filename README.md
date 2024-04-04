@@ -1,4 +1,5 @@
-**LANL Earthquake Prediction**
+# **LANL Earthquake Prediction**
+
 Forecasting earthquakes is one of the most crucial challenges in Earth science, significantly due to their devastating consequences. This project focuses on predicting the timing of laboratory earthquakes from real-time seismic data, a pivotal step towards advancing our understanding and prediction capabilities for seismic events.
 
 **Overview**
