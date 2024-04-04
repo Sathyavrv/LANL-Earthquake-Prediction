@@ -7,9 +7,7 @@ The "LANL Earthquake Prediction" competition aims to use seismic signals for pre
 **Goal**
 The primary goal is to leverage the acoustic_data input signal to accurately predict the time_to_failure for laboratory earthquakes, contributing to the broader field of earthquake hazard assessments and potentially saving lives and infrastructure.
 
-<p align=center>
-<img src="https://www.kaggle.com/competitions/11000/images/header" width="80%" align="center"></p>
-
+![image](https://github.com/Sathyavrv/LANL-Earthquake-Prediction/blob/main/img/header.png?raw=true)
 **Competition Link**
 For more details about the competition and the dataset, visit the Kaggle Competition Page.
 
